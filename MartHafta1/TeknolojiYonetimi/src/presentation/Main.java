@@ -1,15 +1,6 @@
-import entity.ProgrammingLanguage;
-import entity.Technology;
-import repository.concrete.inmemory.InMemoryProgrammingLanguageRepository;
-import repository.concrete.inmemory.InMemoryTechnologyRepository;
-import service.TechnologiesProcess;
-import service.abstracts.ProgramminLanguageService;
-import service.abstracts.TechnologyService;
-import service.concrete.ProgrammingLanguageServiceImpl;
-import service.concrete.TechnologyServiceImpl;
+package presentation;
 
 
-import java.util.Random;
 import java.util.Scanner;
 
 // Press Shift twice to open the Search Everywhere dialog and type `show whitespaces`,

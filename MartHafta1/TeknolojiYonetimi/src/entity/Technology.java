@@ -3,7 +3,6 @@ package entity;
 import common.repositories.Identifiable;
 
 public class Technology implements Identifiable {
-
     private int id;
     private String name;
     private  String programmingLanguage;
